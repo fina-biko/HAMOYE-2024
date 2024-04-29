@@ -4,6 +4,7 @@ this new branch contains creation of file profile.md that is not created in the 
 if i want to put this file to be in the main branch too, I just need to merge these 2 branches
 
 step 2 
+compare and pull requests
 Compare: The "compare" feature in GitHub allows you to view the differences between two branches or commits in a Git repository. You can use it to compare the changes made in one branch or commit with another branch or commit. This is particularly useful for understanding what code changes have been made between different versions of your project.
 
 so pull requests is a way  of telling github that the main branch or the master  etc should pull the  code in this side branch  and  then merge these branches so that they now be at pur.
