@@ -1,2 +1,2 @@
 # HAMOYE-2024
-This is a repo of all the tests and projects issued by Hamoye during my internship with them.
+This is a repo of  projects on pulling and merging branches  by Hamoye during my internship with them.
